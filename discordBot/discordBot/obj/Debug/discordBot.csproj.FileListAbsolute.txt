@@ -51,3 +51,7 @@ C:\discordbot\discordBot\discordBot\bin\Debug\Google.Apis.PlatformServices.dll
 C:\discordbot\discordBot\discordBot\bin\Debug\Google.Apis.xml
 C:\discordbot\discordBot\discordBot\bin\Debug\Google.Apis.Core.xml
 C:\discordbot\discordBot\discordBot\bin\Debug\System.Web.Helpers.dll
+C:\discordbot\discordBot\discordBot\bin\Debug\RiotSharp.dll
+C:\discordbot\discordBot\discordBot\bin\Debug\RiotSharp.xml
+C:\discordbot\discordBot\discordBot\bin\Debug\Imgur.API.dll
+C:\discordbot\discordBot\discordBot\bin\Debug\Imgur.API.xml

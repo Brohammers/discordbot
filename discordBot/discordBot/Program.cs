@@ -28,7 +28,7 @@ namespace discordBot
                 .AddSingleton(commandService)
                 .BuildServiceProvider();
 
-            String botToken = "MzE3NDQ3NjI2NDYxMTUxMjMy.DSbDPg.AdLYOBMP8hJ3QpLbzQkgSPHITog";
+            String botToken = "MzE3NDQ3NjI2NDYxMTUxMjMy.DSf8Yw._pweCgY-MZS01faB4mndYqT_5_I";
 
             discordSocketClient.Log += Log;
 
@@ -61,7 +61,7 @@ namespace discordBot
 
             int argumentPosition = 0;
 
-            if (message.HasStringPrefix("!", ref argumentPosition) || message.HasMentionPrefix(discordSocketClient.CurrentUser, ref argumentPosition))
+            if (message.HasStringPrefix("+2B", ref argumentPosition) || message.HasMentionPrefix(discordSocketClient.CurrentUser, ref argumentPosition))
             {
                 SocketCommandContext context = new SocketCommandContext(
                     discordSocketClient, message);
